@@ -51,5 +51,5 @@ find  -name "*.jar"  -print -delete
 %license COPYING.txt LICENSE.txt
 
 %changelog
-* Fri Aug 21 2020 wangyue <wangyue92@huawei.com> - 2.1.11-1
+* Thu Jul 30 2020 wangyue <wangyue92@huawei.com> - 2.1.11-1
 - package init
